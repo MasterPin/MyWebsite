@@ -3,3 +3,9 @@ body::before{
     content:"";
     height:60px;
 }
+
+#jobdesc{
+    font-size: 8rem;
+    font-family:"Space Mono", monospace;
+
+}
